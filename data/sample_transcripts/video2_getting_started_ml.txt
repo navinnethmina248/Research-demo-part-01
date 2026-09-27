@@ -1,0 +1,11 @@
+Hey everyone, in this video we are Getting Started with Machine Learning from scratch. Machine Learning lets computers find patterns in data on their own rather than following hand written rules.
+
+Let's start with Supervised Learning. This is when we train a model using labeled examples, so the algorithm already knows the right answer during training. Classification and regression problems both fall under supervised learning. One simple and interpretable model here is the Decision Tree Classifier.
+
+Next we have Unsupervised Learning, where the dataset has no labels at all. The model tries to discover structure by itself. K Means Clustering is a widely used technique that partitions data points into clusters based on similarity.
+
+We also need to mention Reinforcement Learning, a third paradigm where an agent learns by interacting with an environment and receiving rewards or penalties. This is very different from supervised and unsupervised learning.
+
+Before we finish, a quick note on Neural Networks. These are computational models inspired loosely by biological neurons in the brain, and they underpin most of modern Deep Learning.
+
+Thanks for watching, subscribe for the next lesson on model evaluation and Precision and Recall.

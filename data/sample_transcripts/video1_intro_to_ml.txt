@@ -1,0 +1,9 @@
+Welcome to this introduction to Machine Learning. Machine learning is a field of Artificial Intelligence where systems learn patterns from data instead of being explicitly programmed. Today we will cover the main types of learning and a few core algorithms.
+
+The first major category is Supervised Learning. In supervised learning, the model is trained on labeled data, meaning every training example has a known correct answer. Common supervised learning tasks include classification and regression. A popular supervised algorithm is the Decision Tree, which splits data into branches based on feature values.
+
+The second category is Unsupervised Learning. Here the data has no labels, and the goal is to find hidden structure. Clustering algorithms like K-Means Clustering group similar data points together without being told the correct groups in advance.
+
+Finally, let's talk about Neural Networks. A Neural Network is a model loosely inspired by the human brain, made up of layers of interconnected nodes. Neural networks are the foundation of Deep Learning, and they are especially powerful for tasks like image recognition and natural language processing. Andrew Ng and Geoffrey Hinton are two researchers who have contributed enormously to this field.
+
+That wraps up our introduction. In the next video we will look at how to evaluate a machine learning model using metrics like Accuracy and Precision.

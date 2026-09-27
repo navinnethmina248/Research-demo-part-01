@@ -1,0 +1,11 @@
+This lecture is on Deep Learning Foundations. Deep Learning is a subfield of Machine Learning that uses Neural Networks with many layers to model complex patterns in data.
+
+A Neural Network is composed of an input layer, one or more hidden layers, and an output layer, and it is loosely inspired by the structure of the human brain. Training a neural network involves an algorithm called Backpropagation, which adjusts the weights of the network to reduce error.
+
+Convolutional Neural Networks, or CNNs, are a specialized type of neural network designed for image data. They are widely used in Computer Vision tasks such as image recognition and object detection.
+
+Recurrent Neural Networks, or RNNs, are designed for sequential data such as text or time series, and they are commonly used in Natural Language Processing.
+
+Researchers such as Geoffrey Hinton, Yann LeCun, and Yoshua Bengio are often credited as pioneers of modern Deep Learning, and their work has shaped the field significantly since the 2010s.
+
+In our next session we will build a simple Convolutional Neural Network from scratch and evaluate it using Accuracy on a test dataset.
